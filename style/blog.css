@@ -2,3 +2,12 @@ div{
     /* background-color: rgb(196, 255, 249); */
     font-style: oblique;
 }
+p{
+    text-emphasis-color: red;
+}
+h2{
+    color: brown;
+}
+li{
+    color: rgb(223, 214, 31);
+}
